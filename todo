@@ -1,0 +1,15 @@
+1. Vue ClI?
+2. Vue ClI vs Vue ?
+3. How to use vue CLI?
+4. path 
+	- package.json
+	- public
+	- src
+		- main.js
+		- app.Vue
+		- components
+		- views
+5. write code and review components
+
++ optional
+1. utils (apiUrl)
